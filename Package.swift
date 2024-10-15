@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "LevelTravelChat",
-         url: "https://storage.yandexcloud.net/app-house-storage/LevelTravelChat.xcframework.zip",
-         checksum: "41db8ee027619f7593418aa4edaa04e75a2163d6e97ecd3e86fdd3fa47998a08")
+         url: "https://drive.google.com/uc?export=download&id=1N2hxP7YeFGGjfHKqhPE0ISCFPA9-2kgL",
+         checksum: "ea01ab997d47cb9b8b70465cd26e58c781a4f5d2f851c9931d373b42da93f51a")
    ]
 )
