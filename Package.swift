@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "LevelTravelChat",
-         url: "https://github.com/StepByStepler/lt-kmp-libs/releases/download/v1.0.2/LevelTravelChat.xcframework.zip",
-         checksum: "809a333de84961d6ff8c8d8de455ddec94e0ebff534c5850323325a3488119f5")
+         url: "https://github.com/StepByStepler/lt-kmp-libs/releases/download/v1.0.3/LevelTravelChat.xcframework.zip",
+         checksum: "0a10b61a858551c6b0aa036cbb7007dd558510e42b8799f9c793423468fae8c3")
    ]
 )
